@@ -1,0 +1,10 @@
+###
+ # @Description: 
+ # @Author: ggs
+ # @Date: 2024-06-12 18:11:27
+ # @LastEditors: ggs
+ # @LastEditTime: 2024-06-12 18:13:05
+ # @FilePath: \vitePress\scf_bootstrap
+### 
+#!/bin/bash
+/var/lang/node20/bin/node app.js
